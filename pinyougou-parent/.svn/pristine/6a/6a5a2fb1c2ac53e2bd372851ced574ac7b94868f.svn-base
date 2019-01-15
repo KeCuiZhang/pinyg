@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [27/Dec/2018:17:55:54 +0800] "GET /brand/findAll.do HTTP/1.1" 200 908 http-bio-9101-exec-2 19073
+0:0:0:0:0:0:0:1 - - [27/Dec/2018:17:55:54 +0800] "GET /brand/findAll.do HTTP/1.1" 200 908 http-bio-9101-exec-1 22822
